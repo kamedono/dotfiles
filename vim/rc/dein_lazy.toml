@@ -1,0 +1,14 @@
+[[plugins]]
+repo = 'Shougo/vimproc.vim'
+build = 'make'
+on_source = ['unite.vim', 'vimshell.vim']
+
+[[plugins]]
+repo = 'Shougo/neocomplete.vim'
+depends = 'context_filetype.vim'
+
+[[plugins]]
+repo = 'jistr/vim-nerdtree-tabs'
+
+
+

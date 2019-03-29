@@ -25,4 +25,24 @@ repo = 'vim-scripts/errormarker.vim'
 
 
 
+# local load
+[[plugins]]
+repo = 'thinca/vim-localrc'
+
+[[plugins]]
+repo = 'tpope/vim-surround'
+
+# comment out
+[[plugins]]
+repo = 'sakuraiyuta/commentout.vim'
+
+# Git
+[[plugins]]
+repo = 'tpope/vim-fugitive'
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
+
+# go lang
+[[plugins]]
+repo = 'fatih/vim-go'
 

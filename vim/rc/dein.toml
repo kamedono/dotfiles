@@ -23,6 +23,12 @@ repo = 'scrooloose/syntastic'
 [[plugins]]
 repo = 'vim-scripts/errormarker.vim'
 
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+
+# kakko
+[[plugins]]
+repo = 'cohama/lexima.vim'
 
 
 # local load
